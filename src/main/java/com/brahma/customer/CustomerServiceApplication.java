@@ -1,4 +1,4 @@
-package com.brahma.customer_service;
+package com.brahma.customer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

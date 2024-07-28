@@ -1,4 +1,4 @@
-package com.brahma.customer_service;
+package com.brahma.customer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
